@@ -1,0 +1,191 @@
+.fe_categorylabelviews{
+    color: red;
+}
+.fe-clear{
+   clear:both;
+}
+.fe-hidden{
+    display:none;
+}
+.fe-posting-p{
+    margin: 2px 0;
+}
+.fe-drop-table{
+    color: green;
+}
+.fe-warning-p{
+    color: red;
+}
+.fe-posting-center{
+    text-align:center;
+}
+.fe-posting-img{
+   cursor: pointer;
+   border: 0px;
+}
+.fe-required-span{
+    color:red;
+}
+.fe-class-ul{
+    margin-left:20px;
+}
+.fe-class-act-p{
+    font-family:arial,helvetica,sans-serif;color:red;
+}
+.fe-class-widgets-div{
+    padding-top:50px;
+}
+.popular-category{
+    margin:3px 0px 3px 0px;
+}
+.fe-class-form{
+    background-color:#eeeeee;padding:10px;width:90%;
+}
+.fe-class-bold{
+    font-weight:bold;
+}
+.fe-class-badwords{
+    text-shadow: 0 0 1em #aaaaaa, 0 0 1em #aaaaaa, 0 0 1em #aaaaaa;
+}
+.fe-class-fandom-input{
+    margin-left:30px;
+}
+#inputtypeselectfic{
+    margin-bottom:10px; display:block;
+}
+#frontendform {
+    display:none;border-top:1px solid #ccc; margin-top:10px;
+}
+#poststory{
+    margin-top:10px;
+}
+#input-title{
+    width:96%;
+}
+.fe-frontend-div{
+    margin-top:10px; border-bottom:1px solid #ccc;
+}
+.chapternumberdesc-td{
+    font-size:10px;
+}
+.chapternumberdesc-input{
+    width:95%;
+}
+.fe-frontend-select-div{
+    margin-top:10px;
+}
+.fe-frontend-clear{
+    clear:both;
+}
+.fe-frontend-border-div{
+    border-bottom:1px solid #ccc;
+}
+.fe-frontend-gif{
+    vertical-align:middle; margin-bottom:10px;
+}
+#genrehide1{
+    float:left; width:46%;
+}
+#charhide{
+    float:right; width:46%;
+}
+.fe-frontend-publish{
+    width:100%; text-align:right; margin-top:10px;
+}
+#bookslist{
+    display:none; border-top:1px solid #ccc
+}
+.genrehide{
+    margin-top:10px;
+}
+.fe-frontend-genrediv{
+    height:300px; overflow:auto; border:1px solid #ccc; margin-top:53.5px
+}
+#cfilteringtabs{
+    margin-top:53.5px;
+}
+#fiction_search{
+    padding:5px;font-size:.9em;
+}
+#keyword{
+    max-width:75%;min-width:50%;margin-right:5px;font-size:1.35em;padding:3px;
+}
+.fe-class-search-fandom{
+    font-style:italic;padding-top:3px;padding-bottom:3px;
+}
+#fiction_search_fandoms_block_cat_letters{
+    font-size:1.15em;
+}
+#fiction_search_fandoms_block_breadcrumb{
+    display:none;margin-top:10px;font-size:1.25em;
+}
+#fiction_search_fandoms_block_categories{
+    display:none;
+}
+.fe-search-fandom-blocks{
+ cursor:pointer;
+}
+.fiction_search_fandoms_block_categories{
+    padding:3px;
+}
+.fe-single-view-margin{
+    margin-top:10px;
+}
+.fe-single-view-ad-float{
+    float:right;
+}
+.fe-browse-site{
+    padding:5px;
+}
+#fic_age_verification{
+    width:525px;margin-left:auto;margin-right:auto;
+}
+.fe-age-verification-button-div{
+    width:75px;margin-left:auto;margin-right:auto;
+}
+#fic_age_verification_submit_btn{
+    font-size:1.5em;
+}
+#fefictionerrorcontainer{
+    display:none;
+}
+.fe-admin-form-table{
+    width:75%;
+}
+.fe-admin-form-th{
+    width:25%;vertical-align:top;
+}
+.fe-admin-form-td{
+    width:75%;vertical-align:top;
+}
+.fe_fiction_page_input{
+    font-size:1.7em;
+}
+.fe-admin-titlewrap{
+    font-size:1.5em;font-weight:bold;
+}
+.fe-admin-title-span{
+    color:#000099;
+}
+.fe-admin-title-span{
+    font-style:italic;padding-top:15px;
+}
+.fe-admin-inside{
+    margin-top:10px;padding:10px;border:1px solid #ccc;background-color:#FFFFCC;
+}
+.fe-admin-profile-age{
+    width:523px;background: #dedede;
+}
+.fe-admin-profile-age{
+    width:500px;padding:10px;background: #98CFE4;
+}
+.fe-admin-age-input{
+    font-size:1.5em;font-weight:bold;text-align:center;
+}
+.fe-admin-rating-div{
+    width:500px;padding:10px;margin-top:5px;background: #ffffcc;
+}
+
+.single_fiction{
+    float:left !important;
+}

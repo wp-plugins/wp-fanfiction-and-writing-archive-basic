@@ -1,0 +1,774 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fanfic.me Fiction\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-29 12:14-0700\n"
+"PO-Revision-Date: 2011-11-30 17:14-0300\n"
+"Last-Translator: Daniela Follador <tankochan@gmail.com>\n"
+"Language-Team: Fanfic.me <support@fanfic.me>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SearchPath-0: \\fe-super-fiction\n"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:359
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fan-fiction-search-widget.php:53
+msgid "Authors"
+msgstr "Autores"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1009
+msgid "Permalink:"
+msgstr "Link permanente:"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1012
+msgid "Edit"
+msgstr "Editar"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1162
+msgid "Enter Book or Story Title"
+msgstr "Título do livro ou da história"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1170
+msgid "ID"
+msgstr "ID"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1171
+msgid "Book / Story"
+msgstr "Livro / História"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1172
+msgid "Chapter"
+msgstr "Capítulo"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1203
+msgid "None"
+msgstr "Nenhum"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1258
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1333
+msgid "Settings"
+msgstr "Configurações"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1290
+msgid "Are you sure you want to delete the page?"
+msgstr "Tem certeza que deseja apagar a página?"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1333
+msgid "Links"
+msgstr "Links"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1333
+msgid "Tools"
+msgstr "Ferramentas"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1333
+msgid "Posts"
+msgstr "Posts"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1333
+msgid "Media"
+msgstr "Arquivos de mídia"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1572
+msgid "Story Rating"
+msgstr "Classificação da história"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1719
+msgid "Author Pages"
+msgstr "Página dos autores"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1721
+msgid "User Limits"
+msgstr "Limites de usuário"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1728
+msgid "Fanfic Options"
+msgstr "Opções de fanfic"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1730
+msgid "Manage Scores"
+msgstr "Manejar pontuação"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1732
+msgid "Scores Options"
+msgstr "Opções de pontuação"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1734
+msgid "Scores Templates"
+msgstr "Template de pontuação"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1842
+msgid "Please do not use \"Fiction\" or \"fiction\" as your page title.  This is reserved."
+msgstr "Por favor não use \"Fiction\" ou \"fiction\" como título de sua página.  Este nome é reservado."
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1845
+msgid "We need a title for the page if we are to create one for you."
+msgstr "Precisamos de um título para a página se tivermos que criar uma para você."
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1982
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fan-fiction-search-widget.php:107
+msgid "Search"
+msgstr "Buscar"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-site-functions.php:66
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-site-functions.php:81
+msgid "N/A"
+msgstr "N/A"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-widget.php:9
+msgid "Fanfic.me Fiction Widget"
+msgstr "Fanfic.me Fiction Widget"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-widget.php:62
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:38
+msgid "Dashboard"
+msgstr "Painel de controle"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-widget.php:64
+msgid "My profile"
+msgstr "Meu perfil"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-widget.php:64
+msgid "My Profile"
+msgstr "Meu perfil"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-widget.php:66
+msgid "My Fiction"
+msgstr "Minhas fanfics"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-widget.php:68
+msgid "Post a Story"
+msgstr "Postar uma história"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-widget.php:101
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fan-fiction-search-widget.php:129
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fic-recent-comments-widget.php:90
+msgid "Title:"
+msgstr "Título:"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-widget.php:107
+msgid "Show Login/Logout Link"
+msgstr "Mostrar link de login/logout"
+
+#: /wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-widget.php:111
+msgid "Show User's Nickname"
+msgstr "Mostrar apelido de usuário"
+
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fan-fiction-search-widget.php:9
+msgid "Fanfic.me Fan Fiction Search"
+msgstr "Busca de Fanfiction do Fanfic.me"
+
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fan-fiction-search-widget.php:26
+msgid "Keyword"
+msgstr "Palavras-chave"
+
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fan-fiction-search-widget.php:29
+msgid "Fandoms"
+msgstr "Fandoms"
+
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fan-fiction-search-widget.php:76
+msgid "Genres"
+msgstr "Gêneros"
+
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fan-fiction-search-widget.php:86
+msgid "Ratings"
+msgstr "Classificações"
+
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fan-fiction-search-widget.php:96
+msgid "Characters"
+msgstr "Personagens"
+
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fic-recent-comments-widget.php:10
+msgid "The most recent fiction comments"
+msgstr "Comentários de fanfics mais recentes"
+
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fic-recent-comments-widget.php:11
+msgid "Fan Fiction Recent Comments"
+msgstr "Comentários de fanfics recentes"
+
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fic-recent-comments-widget.php:49
+msgid "Recent Comments"
+msgstr "Comentários recentes"
+
+#: /wp-fanfiction-writing-archive-basic/includes/ffme-fic-recent-comments-widget.php:93
+msgid "Number of comments to show:"
+msgstr "Número de comentários a exibir:"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-add-edit-validate.php:26
+msgid "Title is required"
+msgstr "O título é obrigatório"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-add-edit-validate.php:27
+msgid "Author Notes is required and cannot exceed 150 characters"
+msgstr "Notas do autor são obrigatórias e não podem ultrapassar 150 caracteres"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:3
+msgid "Fanfic.me Options"
+msgstr "Opções do Fanfic.me"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:5
+msgid "Fanfic.me options have been updated"
+msgstr "As opções do Fanfic.me foram atualizadas"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:6
+msgid "There were complications with page creation.  Please see message below."
+msgstr "Houve problemas na criação da página. Por favor veja a mensagem abaixo."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:16
+msgid "Create Fan Fiction Page"
+msgstr "Criar página de fanfic"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:18
+msgid "Page has been created for you"
+msgstr "A página foi criada para você"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:19
+msgid "Page has been deleted!  You may safely create a new page."
+msgstr "A página foi apagada! Você pode criar uma nova página com segurança."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:23
+msgid "page already exists."
+msgstr "A página já existe"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:23
+msgid "Manage the page here"
+msgstr "Gerencie a página aqui"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:23
+msgid "Delete the existing page"
+msgstr "Apagar página existente"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:23
+msgid "Delete the existing page."
+msgstr "Apagar a página existente"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:26
+msgid "Yes, Create the page for me"
+msgstr "Sim, crie a página para mim"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:28
+msgid "The page title (anything other than \"Fiction\")"
+msgstr "O título da página (qualquer nome que não seja \"Fiction\")"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:29
+msgid "(this will create a page for you that will be used to display your fiction list.  This is a single page that will be used for listing all fiction and fictin search results)"
+msgstr "(A página que será usada para exibir sua lista de fanfiction será criada. Esta é uma página única que lista todas as fanfictions e resultados de busca dentro das fanfictions.)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:30
+msgid "<strong>Note:</strong> you don't need to have us do this!  You can create the page yourself.  just add [fe-fiction] where you want the fiction listing or story to display :)"
+msgstr "<strong>Aviso:</strong> Se quiser você não precisa deixar este procedimento com a gente! Você mesmo pode criar a página. Apenas escreva [fe-fiction] na página onde quiser que a lista de fanfics ou a história seja exibida. :)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:39
+msgid "Override Dashboard option enabled"
+msgstr "Opção de sobrescrever o painel de controle habilitada"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:40
+msgid "Override Dashboard"
+msgstr "Sobrescrever o Painel de controle"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:41
+msgid "(this will change the standard WP dashboard and replace it with a nice options dashboard)"
+msgstr "(isto irá substituir o painel de controle padrão do wordpress por um painel de controle amigável)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:53
+msgid "Enhanced Admin Interface"
+msgstr "Interface avançada de administrador"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:54
+msgid "Admin menus are now hidden (except for admins)"
+msgstr "Os menus de administração foram ocultados (exceto para administradores)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:55
+msgid "Click to enable"
+msgstr "Clique para habilitar"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:57
+msgid "(Set up the admin interface so that Authors can only access their profile, read and manage comments, and manage their fiction)"
+msgstr "(Ajuste a interface de administração para que os autores possam apenas acessar seus perfis, ler e gerenciar comentários e suas fanfics.)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:63
+msgid "Default Role"
+msgstr "Função padrão de usuário"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:64
+msgid "Default role has been set to Author"
+msgstr "Função padrão foi definida como Autor"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:65
+msgid "Change the default role to Author"
+msgstr "Mudar a função padrão para Autor"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:67
+msgid "(Allow Fanfic.me Fan Fiction to set the default role for new users to the Author level.  The Author level allows for users to submit and publish their own stories.  It also allows them to manage the comments for their stories.  You can always not enable this and continue to manage roles yourself.)"
+msgstr "(Permite que o Fanfic.me Fan Fiction estabeleça o nível de Autor como função padrão para novos usuários. O nível de autor permite que os usuários enviem e publiquem as próprias histórias. Também permite que eles gerenciem os comentários para suas próprias histórias. Você sempre poderá não habilitar esta opção e continuar a gerenciar as funções.)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:69
+msgid "<strong>Note:</strong> If you disable this feature after having it enabled, make sure to go to the <a href=\""
+msgstr "<strong>Aviso:</strong> Se você desabilitar esta função após tê-la habilitado, certifique-se de ir em <a href=\""
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:75
+msgid "Fan Fiction Page Stylesheet"
+msgstr "Stylesheet da página de Fanfiction"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:76
+msgid "Stylesheet Updated"
+msgstr "Stylesheet atualizada"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:78
+msgid "Customize the style defintions for the fiction pages"
+msgstr "Customize as definições de estilo para as páginas de fanfiction"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:79
+msgid "(If you delete the entire contents here, we will reset it to the default stylesheet)"
+msgstr "(Se você deletar todo o conteúdo aqui, iremos reverter para a stylesheet padrão)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:89
+msgid "Fan Fiction Scores"
+msgstr "Pontuação de Fanfiction"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:90
+msgid "Fiction scoring enabled"
+msgstr "Pontuação de fanfictions habilitada"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:91
+msgid "Enable fiction story scoring (i.e. star ratings)"
+msgstr "Habilitar pontuação de fanfictions ( exemplo: avaliação por estrelas)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:93
+msgid "(Allow users to rank a story with up/down voting, stars, etc.  You will be able to configure this once enabled.)"
+msgstr "(Permite que usuários avaliem uma história com votação de positivo/negativo, estrelas, etc. Você poderá configurar assim que habilitar esta opção.)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:105
+msgid "Update Role For Users"
+msgstr "Atualizar função padrão para usuários"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:107
+msgid "Subscribers"
+msgstr "Assinantes"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:109
+msgid "Contributors"
+msgstr "Colaboradores"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:111
+msgid "Editors"
+msgstr "Editores"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:113
+msgid "(For each user associated to the checked roles, we will update them to the Author role.  The Author role is the new default role.  We will only perform this action if you have also selected to allow us to set the default role)"
+msgstr "(Para cada usuário associado com as funções marcadas, iremos remanejá-los para a função de Autor. A função de autor é a nova função padrão. Apenas executaremos esta ação se você também selecionou a permissão para estabelecer a função padrão.)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:121
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-user-limits-form.php:43
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-user-limits-form.php:6
+msgid "Site User Limits"
+msgstr "Limite de usuários do site"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-user-limits-form.php:8
+msgid "Use this setting to limit the number of users that this site is permitted to have.  This does not include Administrators or the site owner"
+msgstr "Use esta configuração para limitar o número de usuários máximo que o site pode ter. O dono do site e administradores não estão inclusos neste número."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-user-limits-form.php:10
+msgid "site options have been updated"
+msgstr "As opções do site foram atualizadas"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-user-limits-form.php:20
+msgid "Set User Limit"
+msgstr "Definir limite de usuários"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-user-limits-form.php:24
+msgid "Unlimited"
+msgstr "ilimitado"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:5
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select_fiction_edit.php:5
+msgid "Creating a new chapter for a book?  Select the story / book here."
+msgstr "Criando um novo capítulo para seu livro? Selecione a história/livro aqui."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:7
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select_fiction_edit.php:7
+msgid "Select a Story"
+msgstr "Selecione uma história"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:8
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select_fiction_edit.php:8
+msgid "No story"
+msgstr "Nenhuma história"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:33
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select_fiction_edit.php:35
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-edit-story-limiter.php:8
+msgid "Book Title: "
+msgstr "Título do livro:"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:33
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select_fiction_edit.php:35
+msgid "Enter chapter number and chapter name below."
+msgstr "Insira o número do capítulo e o título do capítulo abaixo."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:91
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select_fiction_edit.php:90
+msgid "Continue"
+msgstr "Continua"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:109
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select_fiction_edit.php:108
+msgid "Are you sure you want to create a new chapter for: "
+msgstr "Tem certeza que quer criar um novo capítulo para:"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:109
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select_fiction_edit.php:108
+msgid ""
+"? \\n"
+"\\n"
+"Note: you will lose all unsaved data!!!"
+msgstr ""
+"? \\n"
+"\\n"
+"AVISO: Você vai perder todas as informações que não tiverem sido salvas!!!"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:114
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select_fiction_edit.php:113
+msgid "Content Body"
+msgstr "Conteúdo do corpo"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:21
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:21
+#, php-format
+msgid "Story written on %1$s by %2$s."
+msgstr "História escrita em %1$s , por %2$s."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:27
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:84
+msgid "Genre(s)"
+msgstr "Gênero(s)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:28
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:85
+msgid "Rating"
+msgstr "Classificação"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:29
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:86
+msgid "Fandom(s)"
+msgstr "Fandom(s)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:30
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:87
+msgid "Character(s)"
+msgstr "Personagem(s)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:31
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:93
+msgid "Story Shortlink"
+msgstr "Link encurtado da história"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:32
+#, php-format
+msgid "%1$d words."
+msgstr "%1$d palavras."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:32
+msgid "No Comments"
+msgstr "Nenhum comentário"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:32
+msgid "1 Comment"
+msgstr "1 comentário"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:32
+msgid "% Comments"
+msgstr "% comentários"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:88
+msgid "Number of Comments"
+msgstr "Número de comentários"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:88
+msgid "1"
+msgstr "1"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:88
+msgid "%"
+msgstr "%"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:89
+msgid "Words"
+msgstr "Palavras"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:91
+msgid "Views"
+msgstr "Visitas"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:96
+msgid "Author Notes"
+msgstr "Notas do autor"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:113
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:117
+msgid "Summary"
+msgstr "Sumário:"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:135
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "continuar lendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:136
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:19
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:39
+msgid "Fandom: "
+msgstr "Fandom:"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:22
+msgid "CLEAR"
+msgstr "LIMPAR"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:53
+msgid "Displaying fandoms for which we currently have stories, but we welcome stories in all fandoms."
+msgstr "Exibindo fandoms para os quais atualmente não temos histórias, mas histórias de todos os fandoms são bem vindas."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:128
+msgid "Search Fan Fiction"
+msgstr "Buscar Fanfiction"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:143
+msgid "Search by Fandom"
+msgstr "Buscar por fandom"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:145
+msgid "select the first letter of your fandom"
+msgstr "Selecione a primeira letra de seu fandom"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:159
+msgid "Fandom Selection"
+msgstr "Seleção de fandom"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:256
+#, php-format
+msgid "Display %s results per page"
+msgstr "Exibir %s resultados por página"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:277
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:281
+#, php-format
+msgid "<strong>%s</strong> stories found matching your criteria"
+msgstr "<strong>%s</strong> histórias foram encontradas de acordo com seus parâmetros "
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:340
+msgid "Story Search Results"
+msgstr "Resultado de busca de histórias"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:344
+msgid "Browse Stories"
+msgstr "Ver histórias"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:348
+msgid "Not Found"
+msgstr "Não encontrado"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:350
+msgid "We apologize, but no stories were found."
+msgstr "Desculpe, mas nenhuma história foi encontrada."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-profile_age_form.php:9
+#, php-format
+msgid "This story has been set to a rating of <strong>%s</strong>.  Age verification is required to proceed."
+msgstr "Esta história foi avaliada como<strong>%s</strong>. Para prosseguir é preciso verificar sua idade."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-profile_age_form.php:17
+msgid "Submit"
+msgstr "Enviar"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-site-submit-form.php:2
+msgid "Posts by Category"
+msgstr "Posts por categoria"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-user-options-form.php:1
+msgid "Fan Fiction Options"
+msgstr "Opções de Fanfiction"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-user-options-form.php:5
+msgid "Fiction Story Scoring"
+msgstr "Pontuação de Fanfic"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-user-options-form.php:6
+msgid "Enable Fiction Story Scoring (star ratings)"
+msgstr "Habilitar pontuação de fanfics ( classificação por estrelas)"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-user_profile_age.php:3
+msgid "Age Verification"
+msgstr "Verificação de idade"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-user_profile_age.php:4
+#, php-format
+msgid "I am %s years of age as of today, %s"
+msgstr "Eu tenho %s anos de idade, no dia de hoje, %s"
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-user_profile_age.php:6
+#, php-format
+msgid "Enter your current age into the field provide above.  Stories with a rating of R or NC-17 may contain material not suitable for children.  %s requires that all individuals wishing to read these stories confirm they are of at least 17 years of age.  %s uses the MPAA rating labeling system for all stories."
+msgstr "Insira sua idade atual no campo abaixo. Histórias com a classificação R ou NC-17 podem conter material inadequado para crianças.  %s exige que todos os indivíduos que desejam ler estas histórias confirmem que têm ao menos 17 anos de idade. %s usa o sistema de classificação etária da MPAA para todas as histórias."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-user_profile_age.php:8
+#, php-format
+msgid "%s will also make a best attempt to filter profane words in stories that are not rated R or NC-17 unless the individual confirms they are of at least 17 years of age."
+msgstr "%s também tentará filtrar palavrões e vocabulário chulo em histórias que não forem classificadas como R ou NC-17 a não ser que o indivíduo confirme ter ao menos 17 anos de idade."
+
+#: /wp-fanfiction-writing-archive-basic/views/fe-fiction-user_profile_age.php:13
+#, php-format
+msgid "%1$s uses the following rating scale for stories."
+msgstr "%1$s  usa a seguinte escala de classificação para as histórias."
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:2
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:2
+msgid "Add Site Page"
+msgstr "Adicionar nova página do site"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:3
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:3
+msgid "Edit Site Pages"
+msgstr "Editar página do site"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:7
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:12
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:7
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:12
+msgid "New Blog Post"
+msgstr "Novo post do blog"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:8
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:13
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:8
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:13
+msgid "Edit Blog Posts"
+msgstr "Editar posts do blog"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:15
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:15
+msgid "New Fan Fiction Story"
+msgstr "Nova Fanfic"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:16
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:16
+msgid "Manage Fan Fiction Stories"
+msgstr "Gerenciar Fanfics"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:20
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:20
+msgid "Manage Themes"
+msgstr "Gerenciar temas"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:21
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:21
+msgid "Manage Widgets"
+msgstr "Gerenciar widgets"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:22
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:22
+msgid "Manage Menus"
+msgstr "Gerenciar menus"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:23
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:23
+msgid "Theme Header"
+msgstr "Cabeçalho do tema"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:24
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:24
+msgid "Theme Background"
+msgstr "Background do tema"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:26
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:26
+msgid "Add User"
+msgstr "Adicionar usuário"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:27
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:27
+msgid "Manage Users"
+msgstr "Gerenciar usuários"
+
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:31
+#: /wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:31
+msgid "Manage Comments"
+msgstr "Gerenciar comentários"
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:2
+msgid "Options saved."
+msgstr "Opções salvas."
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:5
+msgid "Author Bio Directory Options"
+msgstr "Opções do diretório de biografias dos autores"
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:16
+msgid "Page ID: "
+msgstr "ID da página:"
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:25
+msgid "Users Per Page: "
+msgstr "Usuários por página:"
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:34
+msgid "Noindex User Listings: "
+msgstr "Listagem de usuários não-indexados:"
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:49
+msgid "Administrator"
+msgstr "Administrador"
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:57
+msgid "Site Owner"
+msgstr "Dono do site"
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:81
+msgid "Contribtors"
+msgstr "Colaboradores"
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:100
+msgid "Display user images on directory page."
+msgstr "Exibir imagens dos usuários na página do diretório."
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:108
+msgid "Display user descriptions on directory page."
+msgstr "Exibir descrições dos usuários na página do diretório."
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:121
+msgid "Display user images on profile page."
+msgstr "Exibir imagens dos usuários na página do perfil."
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:129
+msgid "Display user descriptions on profile page."
+msgstr "Exibir descrições  dos usuários na página do perfil."
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:142
+msgid "Number of characters to display of user description on the directory page."
+msgstr "Número de caracteres para a descrição do usuário na página do diretório."
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:158
+msgid "Avatar Type: "
+msgstr "Tipo de Avatar:"
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:179
+msgid "Gravatar Type: "
+msgstr "Tipo de Gravatar:"
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:188
+msgid "Gravatar Size: "
+msgstr "Tamanho do Gravatar:"
+
+#: /wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:192
+msgid "Update Options"
+msgstr "Atualizar opções"
+

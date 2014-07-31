@@ -1,0 +1,25 @@
+.filtertabs{
+	float:left;
+	min-width:20px !important;
+	text-align:center;
+	cursor:pointer;}
+.filtertabsselect{
+	text-decoration:underline;}
+#fandoms>div{
+	display:none;
+	height:300px; overflow:auto; border:1px solid #ccc;}
+#cfandoms>div{
+	display:none;
+	height:300px; overflow:auto; border:1px solid #ccc;}
+.activefandom{
+	display:block !important;}
+.postingtitle{
+	display:none;}
+#publishfrontend{
+	background: url("images/button-orange-grad.jpg") repeat-x scroll left top rgb(33, 117, 155) !important;
+color: #ffffff;
+cursor:pointer;
+font-size: 1.5em !important;
+min-height: 45px !important;
+min-width: 150px !important;
+border-color: #ffcc00;}

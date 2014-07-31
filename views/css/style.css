@@ -1,0 +1,188 @@
+/* =Content ----------------------------------------------------- */
+.entry-utility-scores.fe-fiction img
+,.entry-meta.scores.fe-fiction img
+,.entry-meta.scores.fe-fiction span img
+{
+	display:inline !important;
+}
+
+#fiction_search_block h2
+{
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.entry-meta.fe-fiction,
+.entry-title.fe-fiction,
+.entry-utility.fe-fiction,
+.page-title.fe-fiction {
+	font-family: "Helvetica Neue", Arial, Helvetica, "Nimbus Sans L", sans-serif;
+}
+
+.hentry.fe-fiction {
+	margin: 0 0 48px 0;
+}
+.single.hentry.fe-fiction {
+	margin: 0 0 36px 0;
+}
+.page-title.fe-fiction {
+	color: #000;
+	font-size: 14px;
+	font-weight: bold;
+	margin: 0 0 36px 0;
+}
+.page-title.fe-fiction span {
+	color: #333;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: normal;
+}
+.page-title.fe-fiction a:link,
+.page-title.fe-fiction a:visited {
+	color: #ff0000 !important;
+	text-decoration: none;
+}
+.page-title.fe-fiction a:active,
+.page-title.fe-fiction a:hover {
+	color: #ff0000 !important;
+}
+#content .entry-title.fe-fiction {
+	color: #000;
+	font-size: 21px;
+	font-weight: bold;
+	line-height: 1.3em;
+	margin-bottom: 0;
+	border-bottom:1px #CCCCCC solid;
+}
+.entry-title.fe-fiction a:link,
+.entry-title.fe-fiction a:visited {
+	color: #000 !important;
+	text-decoration: none;
+}
+.entry-title.fe-fiction a:active,
+.entry-title.fe-fiction a:hover {
+	color: #ff4b33 !important;
+}
+#content.entry-meta.fe-fiction
+,.entry-meta.fe-fiction {
+	color: #333 !important;
+	font-size: 12px;
+	border:1px #CCCCCC solid;
+	background-color: #EEEEEE;
+	padding:5px;
+	margin-top:5px;
+}
+.entry-meta.fe-fiction abbr,
+.entry-utility.fe-fiction abbr {
+	border: none;
+}
+.entry-meta.fe-fiction abbr:hover,
+.entry-utility.fe-fiction abbr:hover {
+	border-bottom: 1px dotted #666;
+}
+.entry-content.fe-fiction,
+.entry-summary.fe-fiction {
+	clear: both;
+	padding: 12px 0 0 0;
+    color:#333 !important;
+}
+.entry-content.fe-fiction pre,
+.entry-summary.fe-fiction pre {
+	overflow: auto;
+	white-space: pre-wrap;                 /* CSS3 browsers  */
+	white-space: -moz-pre-wrap !important; /* 1999+ Mozilla  */
+	white-space: -pre-wrap;                /* Opera 4 thru 6 */
+	white-space: -o-pre-wrap;              /* Opera 7 and up */
+	word-wrap: break-word;                 /* IE 5.5+ and up */
+}
+#content .entry-summary.fe-fiction p:last-child {
+	margin-bottom: 12px;
+}
+
+.entry-content.fe-fiction sup,
+.entry-content.fe-fiction sub {
+	font-size: 10px;
+}
+.entry-content.fe-fiction blockquote.left {
+	float: left;
+	margin-left: 0;
+	margin-right: 24px;
+	text-align: right;
+	width: 33%;
+}
+.entry-content.fe-fiction blockquote.right {
+	float: right;
+	margin-left: 24px;
+	margin-right: 0;
+	text-align: left;
+	width: 33%;
+}
+.page-link.fe-fiction {
+	clear: both;
+	color: #000;
+	font-weight: bold;
+	margin: 0 0 22px 0;
+	word-spacing: 0.5em;
+}
+.page-link.fe-fiction a:link,
+.page-link.fe-fiction a:visited {
+	background: #f1f1f1;
+	color: #333 !important;
+	font-weight: normal;
+	padding: 0.5em 0.75em;
+	text-decoration: none;
+}
+.home .sticky .page-link.fe-fiction a {
+	background: #d9e8f7 !important;
+}
+.page-link.fe-fiction a:active,
+.page-link.fe-fiction a:hover {
+	color: #ff4b33 !important;
+}
+
+.entry-utility.fe-fiction {
+	clear: both;
+	color: #888;
+	font-size: 12px;
+	line-height: 18px;
+}
+.entry-meta.fe-fiction a,
+.entry-utility.fe-fiction a {
+	color: #666 !important;
+}
+.entry-meta.fe-fiction a:hover,
+.entry-utility.fe-fiction a:hover {
+	color: #ff4b33 !important;
+}
+
+
+/* =Mobile Safari ( iPad, iPhone and iPod Touch  --------------------- */
+
+.entry-meta.fe-fiction,
+.entry-utility.fe-fiction {
+	-webkit-text-size-adjust: 120%;
+}
+
+/* =Print Style ------------------------------------------------------ */
+
+@media print {
+	.entry-content.fe-fiction {
+		font-size: 14pt;
+		line-height: 1.6em;
+	}
+	.entry-title.fe-fiction {
+		font-size: 21pt;
+	}
+	#entry-author-info.fe-fiction {
+		border: 1px solid #e7e7e7;
+	}
+}
+
+/** BUTTONS **/
+#publish input.button-primary, #publish button.button-primary, #publish a.button-primary {
+	background: url("../images/button-orange-grad.jpg") repeat-x scroll left top rgb(33, 117, 155) !important;
+}
+#minor-publishing-actions input, #major-publishing-actions input, #minor-publishing-actions .preview {
+	min-height:45px !important;
+	min-width:150px !important;
+}

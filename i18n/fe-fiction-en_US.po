@@ -1,0 +1,1573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FE Super Fiction\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-04 09:16-0700\n"
+"PO-Revision-Date: 2011-06-04 09:18-0700\n"
+"Last-Translator: Chad <chad.horton@gmail.com>\n"
+"Language-Team: Chad Horton <chad.horton@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\Users\\shaun.horton\\Documents\\wp_plugins\\fe-super-fiction\n"
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-admin-ajax.php:52
+msgid "Vote This Story Down"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-admin-ajax.php:53
+msgid "Vote This Story Up"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-admin-ajax.php:57
+#, php-format
+msgid "%s Stars"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-admin-ajax.php:59
+#, php-format
+msgid "%s Star"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-admin-ajax.php:68
+msgid "Scoring Image"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-admin-ajax.php:69
+msgid "Scoring Text"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-admin-ajax.php:70
+msgid "Scoring Value"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:48
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:524
+msgid "Delete Data/Logs"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:58
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:88
+msgid "All Fiction Scores Logs Have Been Deleted."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:60
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:90
+msgid "An Error Has Occured While Deleting All Fiction Scores Logs."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:65
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:99
+#, php-format
+msgid "All Fiction Scores Logs For Story ID(s) %s Have Been Deleted."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:67
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:101
+#, php-format
+msgid "An Error Has Occured While Deleting All Fiction Scores Logs For Story ID(s) %s."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:75
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:94
+#, php-format
+msgid "Scoring Data \"%s\" Has Been Deleted."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:80
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:105
+#, php-format
+msgid "Scoring Data \"%s\" For Story ID(s) %s Has Been Deleted."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:144
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:246
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:439
+msgid "ID"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:148
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:247
+msgid "Username"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:152
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:248
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:441
+msgid "Score"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:156
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:249
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:442
+msgid "Story ID"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:160
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:250
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:443
+msgid "Story Title"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:164
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:445
+msgid "IP"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:168
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:446
+msgid "Host"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:173
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:444
+msgid "Date"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:181
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:450
+msgid "Ascending"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:186
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:451
+msgid "Descending"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:239
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:66
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:971
+msgid "Manage Scores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:240
+msgid "Fiction Scores Logs"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:241
+#, php-format
+msgid "Displaying <strong>%s</strong> to <strong>%s</strong> of <strong>%s</strong> Fiction Scores log entries."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:242
+#, php-format
+msgid "Sorted by <strong>%s</strong> in <strong>%s</strong> order."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:251
+msgid "Date / Time"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:252
+msgid "IP / Host"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:270
+#, php-format
+msgid "%s @ %s"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:291
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:293
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:299
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:301
+msgid " Out Of "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:320
+msgid "No Fiction Scores Logs Found"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:335
+msgid "Previous Page"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:344
+msgid "Next Page"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:353
+#, php-format
+msgid "Pages (%s): "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:356
+msgid "Go to First Page"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:356
+msgid "First"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:359
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:371
+msgid "Go to Page"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:366
+msgid "Page"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:374
+msgid "Go to Last Page"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:374
+msgid "Last"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:389
+msgid "Filter Options:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:391
+msgid "Story ID:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:396
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:618
+msgid "Guest"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:402
+msgid "Registered User: "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:404
+msgid "Comment Author: "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:423
+msgid "Score: "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:436
+msgid "Sort Options:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:440
+msgid "UserName"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:458
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:460
+msgid "Per Page"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:468
+msgid "Go"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:477
+msgid "Fiction Scores Logs Stats"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:481
+msgid "Total Users Voted:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:485
+msgid "Total Score:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:489
+msgid "Total Average:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:498
+msgid "Delete Fiction Scores Data/Logs"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:504
+msgid "Delete Type: "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:507
+msgid "Logs Only"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:508
+msgid "Data Only"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:509
+msgid "Logs And Data"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:514
+msgid "Story ID(s):"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:517
+msgid "Seperate each Story ID with a comma."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:518
+msgid "To delete scoring data/logs from Story ID 2, 3 and 4. Just type in: <b>2,3,4</b>"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:519
+msgid "To delete scoring data/logs for all stories. Just type in: <b>all</b>"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:524
+msgid ""
+"You Are About To Delete Fiction Scores Data/Logs.\\n"
+"This Action Is Not Reversible.\\n"
+"\\n"
+" Choose \\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:530
+msgid "Note:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:532
+msgid "'Logs Only' means the logs generated when a user scores a story."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:533
+msgid "'Data Only' means the scoring data for the story."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:534
+msgid "'Logs And Data' means both the logs generated and the scoring data for the story."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-manager.php:535
+msgid "If your logging method is by IP and Cookie or by Cookie, users may still be unable to score if they have voted before as the cookie is still stored in their computer."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:71
+msgid "Custom Rating"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:72
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:47
+msgid "Scores Template Vote"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:73
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:48
+msgid "Scores Template Voted"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:74
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:49
+msgid "Scores Template No Permission"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:75
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:50
+msgid "Scores Template For No Scores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:76
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:51
+msgid "Scores Template For Highest Rated"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:77
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:52
+msgid "Scores Template For Most Rated"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:78
+msgid "Scores Image"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:79
+msgid "Max Scores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:80
+msgid "Individual Rating Text"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:81
+msgid "Individual Rating Value"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:82
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:346
+msgid "Scores AJAX Style"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:83
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:380
+msgid "Logging Method"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:84
+msgid "Allow To Vote Option"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:89
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:57
+msgid "Updated"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:94
+msgid "No Scores Option Updated"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:113
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:116
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:119
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:125
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:72
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:75
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:78
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:84
+msgid "score"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:113
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:116
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:119
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:125
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:141
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:144
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:147
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:72
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:75
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:78
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:84
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:100
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:103
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:106
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1020
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1023
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1295
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1296
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1311
+msgid ","
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:113
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:116
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:119
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:125
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:128
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:141
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:144
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:147
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:156
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:72
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:75
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:78
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:84
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:87
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:100
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:103
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:106
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:115
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1295
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1296
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1311
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1313
+msgid "votes"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:116
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:119
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:144
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:78
+msgid "scored"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:119
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:147
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:78
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:106
+msgid "You need to be a registered member to score this story."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:122
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:150
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:81
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:109
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1297
+msgid "No Scores Yet"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:141
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:144
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:147
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:100
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:103
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:106
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1023
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1295
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1296
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1311
+msgid "average"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:141
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:144
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:147
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:153
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:100
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:103
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:106
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:112
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1023
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1295
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1296
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1305
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1311
+msgid "out of"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:200
+msgid "Fiction Scores Options"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:209
+msgid "Scores Settings"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:212
+msgid "Scores Image:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:282
+msgid "Max Scores:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:286
+msgid "Update 'Individual Rating Text/Value' Display"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:289
+msgid "Individual Scoring Text/Value"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:294
+msgid "Rating Image"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:295
+msgid "Rating Text"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:296
+msgid "Rating Value"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:349
+msgid "Show Loading Image With Text"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:352
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:361
+msgid "No"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:353
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:362
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:161
+msgid "Yes"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:358
+msgid "Show Fading In And Fading Out Of Scores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:367
+msgid "Allow To Score"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:370
+msgid "Who Is Allowed To Score?"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:373
+msgid "Guests Only"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:374
+msgid "Registered Users Only"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:375
+msgid "Registered Users And Guests"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:383
+msgid "Scores Logging Method:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:386
+msgid "Do Not Log"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:387
+msgid "Logged By Cookie"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:388
+msgid "Logged By IP"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:389
+msgid "Logged By Cookie And IP"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:390
+msgid "Logged By Username"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-options.php:396
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:251
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:121
+msgid "Save Changes"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:44
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:84
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:120
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:162
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:197
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:238
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:274
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:316
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:351
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:392
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:428
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:455
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:488
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:517
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:552
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:592
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-stats.php:632
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-site-functions.php:55
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-site-functions.php:70
+msgid "N/A"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:62
+msgid "No Scores Templates Updated"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:75
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:103
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1296
+msgid "rated"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:129
+msgid "Fiction Scores Templates"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:131
+msgid "Template Variables"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:134
+msgid "Display the score images"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:135
+msgid "Display the score voting image"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:138
+msgid "Display the average scores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:139
+msgid "Display the total number of users scored for the story"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:142
+msgid "Display the max number of scores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:143
+msgid "Display the score percentages"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:146
+msgid "Display the total score of the scores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:147
+msgid "Display the individual score text. Eg: 1 Star, 2 Stars, etc"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:150
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:68
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:975
+msgid "Scores Templates"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:154
+msgid "Scores Vote Text:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:155
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:172
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:187
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:202
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:218
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:237
+msgid "Allowed Variables:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:163
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:179
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:194
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:210
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:229
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:244
+msgid "Restore Default Template (Normal Scoring)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:165
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:180
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:195
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:211
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:230
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:245
+msgid "Restore Default Template (Up/Down Scoring)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:171
+msgid "Scores Voted Text:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:186
+msgid "Scores No Permission Text:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:201
+msgid "Scores None:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:217
+msgid "Highest Scored:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-templates.php:236
+msgid "Most Scored:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:40
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:162
+msgid "UNINSTALL WP-PostScores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:47
+#, php-format
+msgid "Table '%s' has been deleted."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:56
+#, php-format
+msgid "Setting Key '%s' has been deleted."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:60
+#, php-format
+msgid "Error deleting Setting Key '%s' or Setting Key '%s' does not exist."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:70
+#, php-format
+msgid "Post Meta Key '%s' has been deleted."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:74
+#, php-format
+msgid "Error deleting Post Meta Key '%s' or Post Meta Key '%s' does not exist."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:97
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:108
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:69
+msgid "Uninstall WP-PostScores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:98
+#, php-format
+msgid "<a href=\"%s\">Click Here</a> To Finish The Uninstallation And WP-PostScores Will Be Deactivated Automatically."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:110
+msgid "Deactivating WP-PostScores plugin does not remove any data that may have been created, such as the ratings data and the ratings's logs. To completely remove this plugin, you can uninstall it here."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:113
+msgid "WARNING:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:114
+msgid "Once uninstalled, this cannot be undone. You should use a Database Backup plugin of WordPress to back up all the data first."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:117
+msgid "The following WordPress Options/Tables/PostMetas will be DELETED:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:122
+msgid "WordPress Options"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:123
+msgid "WordPress Tables"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:124
+msgid "WordPress PostMetas"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/postratings-uninstall.php:162
+msgid ""
+"You Are About To Uninstall WP-PostScores From WordPress.\\n"
+"This Action Is Not Reversible.\\n"
+"\\n"
+" Choose [Cancel] To Stop, [OK] To Uninstall."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:63
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1184
+msgid "Scores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:67
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:973
+msgid "Scores Options"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:86
+msgid "Loading"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:159
+msgid "Please score only 1 post at a time."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:373
+#, php-format
+msgid "%s gives a rating of %s"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:408
+#, php-format
+msgid "%s gives a score of %s"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:500
+msgid "Note: There is a score embedded within this story, please visit this story to score it."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:530
+msgid "There is no excerpt because this is a protected story."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:632
+#, php-format
+msgid "Invalid Story ID. Post ID #%s."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:636
+#, php-format
+msgid "You Had Already Rated This story. Story ID #%s."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:760
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:762
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:800
+msgid "WP-PostScores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1096
+msgid "Fiction Scores statistics"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1097
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:89
+msgid "Fiction Scores"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1195
+msgid "Title:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1198
+msgid "Statistics Type:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1200
+msgid "Most Scored"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1201
+msgid "Most Scored By Category"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1202
+msgid "Most Scored By Time Range"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1203
+msgid "Most Scored By Time Range And Category"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1205
+msgid "Highest Scored"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1206
+msgid "Highest Scored By Category"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1207
+msgid "Highest Scored By Time Range"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1208
+msgid "Highest Scored By Time Range And Category"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1210
+msgid "Lowest Scored"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1211
+msgid "Lowest Scored By Category"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1212
+msgid "Lowest Scored By Time Range"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1214
+msgid "Highest Score"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1215
+msgid "Highest Score By Category"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1216
+msgid "Highest Score By Time Range"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1217
+msgid "Highest Score By Time Range And Category"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1223
+msgid "No. Of Records To Show:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1226
+msgid "Minimum Votes:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1227
+msgid "You can set the minimum votes that a story must have before it gets displayed."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1230
+msgid "Maximum Story Title Length (Characters):"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1231
+msgid "<strong>0</strong> to disable."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1234
+msgid "Category IDs:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1235
+msgid "Seperate mutiple categories with commas."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1238
+msgid "Time Range:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1239
+msgid "Use values like <strong>1 day</strong>, <strong>2 weeks</strong>, <strong>1 month</strong>."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1242
+msgid "* Time range statistics does not support Minimum Votes field, you can ignore that it."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1243
+msgid "** If you are not using any category or time range statistics, you can ignore it."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1304
+msgid "1 Star"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1304
+msgid "2 Stars"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1304
+msgid "3 Stars"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1304
+msgid "4 Stars"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1304
+msgid "5 Stars"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/3rd-party/wp-postratings/wp-postratings.php:1311
+msgid "You need to be a registered member to rate this post."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:427
+msgid "Permalink:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:430
+msgid "Edit"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:579
+msgid "Book / Story"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:580
+msgid "Chapter"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:611
+msgid "None"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:660
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:729
+msgid "Settings"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:686
+msgid "Are you sure you want to delete the page?"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:729
+msgid "Links"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:729
+msgid "Tools"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:729
+msgid "Posts"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:729
+msgid "Media"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:969
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:3
+msgid "Fanfic.me Options"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:969
+msgid "FESF Options"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:977
+msgid "Author Pages"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1051
+msgid "Please do not use \"Fiction\" or \"fiction\" as your page title.  This is reserved."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/includes/fe-super-fiction-class.php:1054
+msgid "We need a title for the page if we are to create one for you."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-add-edit-validate.php:26
+msgid "Title is required"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-add-edit-validate.php:27
+msgid "Author Notes is required and cannot exceed 150 characters"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:5
+msgid "Fanfic.me Fiction options have been updated"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:6
+msgid "There were complications with page creation.  Please see message below."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:16
+msgid "Create Fiction Page"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:18
+msgid "Page has been created for you"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:19
+msgid "Page has been deleted!  You may safely create a new page."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:23
+msgid "page already exists."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:23
+msgid "Manage the page here"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:23
+msgid "Delete the existing page"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:23
+msgid "Delete the existing page."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:26
+msgid "Yes, Create the page for me"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:28
+msgid "The page title (anything other than \"Fiction\")"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:29
+msgid "(this will create a page for you that will be used to display your fiction list.  This is a single page that will be used for listing all fiction and fictin search results)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:30
+msgid "<strong>Note:</strong> you don't need to have us do this!  You can create the page yourself.  just add [fe-fiction] where you want the fiction listing or story to display :)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:38
+msgid "Dashboard"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:39
+msgid "Override Dashboard option enabled"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:40
+msgid "Override Dashboard"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:41
+msgid "(this will change the standard WP dashboard and replace it with a nice options dashboard)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:53
+msgid "Enhanced Admin Interface"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:54
+msgid "Admin menus are now hidden (except for admins)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:55
+msgid "Click to enable"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:57
+msgid "(Set up the admin interface so that Authors can only access their profile, read and manage comments, and manage their fiction)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:63
+msgid "Default Role"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:64
+msgid "Default role has been set to Author"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:65
+msgid "Change the default role to Author"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:67
+msgid "(Allow Fanfic.me Fiction to set the default role for new users to the Author level.  The Author level allows for users to submit and publish their own stories.  It also allows them to manage the comments for their stories.  You can always not enable this and continue to manage roles yourself.)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:69
+msgid "<strong>Note:</strong> If you disable this feature after having it enabled, make sure to go to the <a href=\""
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:75
+msgid "Fiction Page Stylesheet"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:76
+msgid "Stylesheet Updated"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:78
+msgid "Customize the style defintions for the fiction pages"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:79
+msgid "(If you delete the entire contents here, we will reset it to the default stylesheet)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:90
+msgid "Fiction scoring enabled"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:91
+msgid "Enable fiction story scoring (i.e. star ratings)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:93
+msgid "(Allow users to rank a story with up/down voting, stars, etc.  You will be able to configure this once enabled.)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:105
+msgid "Update Role For Users"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:107
+msgid "Subscribers"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:109
+msgid "Contributors"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:111
+msgid "Editors"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-admin-options-form.php:113
+msgid "(For each user associated to the checked roles, we will update them to the Author role.  The Author role is the new default role.  We will only perform this action if you have also selected to allow us to set the default role)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:5
+msgid "Creating a new chapter for a book?  Select the story / book here."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:7
+msgid "Select a Story"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:8
+msgid "No story"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:23
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-edit-story-limiter.php:8
+msgid "Book Title: "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:23
+msgid "Enter chapter number and chapter name below."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:81
+msgid "Continue"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-copy-from-existing-stories-select.php:97
+msgid "Content Body"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:21
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:20
+#, php-format
+msgid "Story written on %1$s by %2$s."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:27
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:66
+msgid "Genre(s)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:28
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:67
+msgid "Rating"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:29
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:68
+msgid "Categories(s)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:30
+#, php-format
+msgid "%1$d words."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:30
+msgid "No Comments"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:30
+msgid "1 Comment"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-multiple.php:30
+msgid "% Comments"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:20
+#, php-format
+msgid "(%1$d words)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:69
+msgid "Number of Comments"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:69
+msgid "1"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:69
+msgid "%"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:72
+msgid "Author Notes"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:87
+msgid "Summary"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:97
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse-single.php:98
+msgid "Pages:"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:2
+msgid "Search Fan Fiction"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:7
+msgid "Fandoms"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:30
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:73
+msgid "Authors"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:51
+msgid "Genres"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:59
+msgid "Ratings"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:68
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:85
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:129
+msgid "Search"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:87
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:91
+#, php-format
+msgid "<strong>%s</strong> stories found matching your criteria"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:131
+msgid "Story Search Results"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:135
+msgid "Browse Stories"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:139
+msgid "Not Found"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-browse.php:141
+msgid "We apologize, but no stories were found."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-site-submit-form.php:2
+msgid "Posts by Category"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-user-options-form.php:1
+msgid "Fiction Options"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-user-options-form.php:4
+msgid "Fiction Story Scoring"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/fe-fiction-user-options-form.php:5
+msgid "Enable Fiction Story Scoring (star ratings)"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:2
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:2
+msgid "Add Site Page"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:3
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:3
+msgid "Edit Site Pages"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:7
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:12
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:7
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:12
+msgid "New Blog Post"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:8
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:13
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:8
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:13
+msgid "Edit Blog Posts"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:15
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:15
+msgid "New Fiction Story"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:16
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:16
+msgid "Manage Fiction Stories"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:20
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:20
+msgid "Manage Themes"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:21
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:21
+msgid "Manage Widgets"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:22
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:22
+msgid "Manage Menus"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:23
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:23
+msgid "Theme Header"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:24
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:24
+msgid "Theme Background"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:26
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:26
+msgid "Add User"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:27
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:27
+msgid "Manage Users"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:29
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:29
+msgid "My Profile"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page.php:31
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/new_dashboard_page_simple.php:31
+msgid "Manage Comments"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:2
+msgid "Options saved."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:5
+msgid "Author Bio Directory Options"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:16
+msgid "Page ID: "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:25
+msgid "Users Per Page: "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:34
+msgid "Noindex User Listings: "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:49
+msgid "Administrator"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:57
+msgid "Site Owner"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:81
+msgid "Contribtors"
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:100
+msgid "Display user images on directory page."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:108
+msgid "Display user descriptions on directory page."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:121
+msgid "Display user images on profile page."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:129
+msgid "Display user descriptions on profile page."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:142
+msgid "Number of characters to display of user description on the directory page."
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:158
+msgid "Avatar Type: "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:179
+msgid "Gravatar Type: "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:188
+msgid "Gravatar Size: "
+msgstr ""
+
+#: C:\Users\shaun.horton\Documents\wp_plugins\wp-fanfiction-writing-archive-basic/views/wpu-admin-options-form.php:192
+msgid "Update Options"
+msgstr ""
+
