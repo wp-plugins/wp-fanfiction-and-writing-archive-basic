@@ -1232,7 +1232,7 @@ function get_next_post_by_author($link="%link &raquo;", $title="%title") {
 
 	function FeFiction_I18N() {
 		# i18n support
-		load_plugin_textdomain('fe-fiction', FIC_PLUGIN_DIR . '/i18n', 'wp-fanfiction-writing-archive-basic/i18n');
+		load_plugin_textdomain('fe-fiction', FIC_PLUGIN_DIR . '/i18n', 'wp-fanfiction-and-writing-archive-basic/i18n');
 		return;
 	}
 
@@ -1845,7 +1845,7 @@ add_filter( 'get_user_option_screen_layout_dashboard', 'so_screen_layout_dashboa
                                    ->term_id,
                            $post_story_categories) ? ' checked="checked"'
                            : '')
-                   . ' />&nbsp;<img src="'.plugins_url().'/wp-fanfiction-writing-archive-basic/views/images/'
+                   . ' />&nbsp;<img src="'.plugins_url().'/wp-fanfiction-and-writing-archive-basic/views/images/'
                    . $ratings_ids[$a]
                            ->slug
                    . '_rating.gif" width="400" height="60" align="middle"></label></li>';
@@ -3656,8 +3656,7 @@ function post_story_function(){
         $post_obj->post_content,
         'userpostcontent',
         array( 'textarea_name' => 'post_content',
-            'media_buttons' => false,
-            'quicktags' => false
+            'media_buttons' => false
         )
     )  ?>
     <div class="fe-frontend-div">
@@ -3837,7 +3836,7 @@ function post_story_function(){
 	'hide_empty' => 0,
 ) );
 	foreach ( $ratingterms as $ratingterm ){ ?>
-		<input type="radio" name="ratingname" value="<?php echo $ratingterm->name; ?>" onclick="radiorating('<?php echo $ratingterm->name; ?>')"><img src="<?php echo plugins_url();?>/wp-fanfiction-writing-archive-basic/views/images/<?php echo strtolower($ratingterm->name); ?>_rating.gif" class="fe-frontend-gif" /><br>
+		<input type="radio" name="ratingname" value="<?php echo $ratingterm->name; ?>" onclick="radiorating('<?php echo $ratingterm->name; ?>')"><img src="<?php echo plugins_url();?>/wp-fanfiction-and-writing-archive-basic/views/images/<?php echo strtolower($ratingterm->name); ?>_rating.gif" class="fe-frontend-gif" /><br>
 	
     	<?php }
 	?>
@@ -4025,7 +4024,7 @@ function bookss(){
 							
 							jQuery.ajax({
 								type:"POST",
-								url: "/wp-admin/admin-ajax.php",
+								url: "<?php echo admin_url('admin-ajax.php'); ?>",
 								data: newCustomerForm,
 								success:function(data){
 									jQuery('#bookslist>div').slideUp();
@@ -4143,7 +4142,7 @@ function genres(){ ?>
 							var genreparent = jQuery('#genreparent').val();
 							jQuery.ajax({
 								type:"POST",
-								url: "/wp-admin/admin-ajax.php",
+								url: "<?php echo admin_url('admin-ajax.php'); ?>",
 								 data: {
 											'action':'addGenre',
 											'term_genre' : newCustomerFormgenre,
@@ -4245,7 +4244,7 @@ function addGenre(){
 							var genreparent = jQuery('#genreparent').val();
 							jQuery.ajax({
 								type:"POST",
-								url: "/wp-admin/admin-ajax.php",
+								url: "<?php echo admin_url('admin-ajax.php'); ?>",
 								 data: {
 											'action':'addGenre',
 											'term_genre' : newCustomerFormgenre,
@@ -4431,7 +4430,7 @@ function char(){ ?>
 							var pairingparent = jQuery('#pairingsparent').val();
 							jQuery.ajax({
 								type:"POST",
-								url: "/wp-admin/admin-ajax.php",
+								url: "<?php echo admin_url('admin-ajax.php'); ?>",
 								 data: {
 											'action':'addChar',
 											'term_char' : newCustomerFormchar,
@@ -4637,7 +4636,7 @@ function addChar(){
 							var pairingparent = jQuery('#pairingsparent').val();
 							jQuery.ajax({
 								type:"POST",
-								url: "/wp-admin/admin-ajax.php",
+								url: "<?php echo admin_url('admin-ajax.php'); ?>",
 								 data: {
 											'action':'addChar',
 											'term_char' : newCustomerFormchar,

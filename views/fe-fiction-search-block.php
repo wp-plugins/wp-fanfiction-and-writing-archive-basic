@@ -43,7 +43,7 @@
 
                 $('#fiction_search_fandoms_block_categories').show();
 
-                $('#fiction_search_fandoms_block_categories_content').show().html('<div class="fe-posting-center"><img src="<?php echo plugins_url();?>/wp-fanfiction-writing-archive-basic/views/images/ajax-loader.gif" alt="<?php _e('Loading ...','fe-fiction') ?>" /></div>');
+                $('#fiction_search_fandoms_block_categories_content').show().html('<div class="fe-posting-center"><img src="<?php echo plugins_url();?>/wp-fanfiction-and-writing-archive-basic/views/images/ajax-loader.gif" alt="<?php _e('Loading ...','fe-fiction') ?>" /></div>');
 
                 $.ajax({
                     type: "GET",

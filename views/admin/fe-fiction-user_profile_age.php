@@ -22,14 +22,14 @@ if(!isset($user_last)||$user_last==''){
 		<a name="fic_rating_labels"></a>
 		<strong><?php printf(__('%1$s uses the following rating scale for stories.','fe-fiction'),get_bloginfo('name')); ?></strong>
 		<br /><br />
-		<img src="<?php echo plugins_url();?>/wp-fanfiction-writing-archive-basic/views/images/g_rating.gif" />
+		<img src="<?php echo plugins_url();?>/wp-fanfiction-and-writing-archive-basic/views/images/g_rating.gif" />
 		<br />
-		<img src="<?php echo plugins_url();?>/wp-fanfiction-writing-archive-basic/views/images/pg_rating.gif" />
+		<img src="<?php echo plugins_url();?>/wp-fanfiction-and-writing-archive-basic/views/images/pg_rating.gif" />
 		<br />
-		<img src="<?php echo plugins_url();?>/wp-fanfiction-writing-archive-basic/views/images/pg-13_rating.gif" />
+		<img src="<?php echo plugins_url();?>/wp-fanfiction-and-writing-archive-basic/views/images/pg-13_rating.gif" />
 		<br />
-		<img src="<?php echo plugins_url();?>/wp-fanfiction-writing-archive-basic/views/images/r_rating.gif" />
+		<img src="<?php echo plugins_url();?>/wp-fanfiction-and-writing-archive-basic/views/images/r_rating.gif" />
 		<br />
-		<img src="<?php echo plugins_url();?>/wp-fanfiction-writing-archive-basic/views/images/nc-17_rating.gif" />
+		<img src="<?php echo plugins_url();?>/wp-fanfiction-and-writing-archive-basic/views/images/nc-17_rating.gif" />
 	</div>
 </div>
