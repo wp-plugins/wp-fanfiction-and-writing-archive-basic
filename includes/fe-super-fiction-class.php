@@ -1990,7 +1990,7 @@ add_filter( 'get_user_option_screen_layout_dashboard', 'so_screen_layout_dashboa
 
 		add_options_page(__('User Limits', 'fe-fiction'), __('User Limits', 'fe-fiction'), 'administrator', 'fanficme_site_user_limits', 'FeFiction_Site_User_Limits');
 
-		add_options_page(__('Paginate Stories', 'fe-fiction'), __('Paginate Stories', 'fe-fiction'), 'administrator', 'fanficme_site_admin_paginate_stories', 'FeFiction_Site_Admin_Paginate_stories');
+		
 
 		/** START fiction options for site owners and admin **/
 

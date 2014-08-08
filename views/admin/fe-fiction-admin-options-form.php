@@ -52,7 +52,7 @@
 			<?php } ?>
 			<label><?php echo __('The page title (anything other than "Fiction")','fe-fiction'); ?>:</label> <input name="fe_fiction_page_title" type="text" id="fe_fiction_page_title" class="fe_fiction_page_input" tabindex="1" size="50" value="<?php echo $current_fe_fiction_page_title; ?>" /><br />
 			<em><?php echo __('(this will create a page for you that will be used to display your fiction list.  This is a single page that will be used for listing all fiction and fictin search results)','fe-fiction'); ?></em><br /><br />
-			<em><?php echo __('<strong>Note:</strong> you don\'t need to have us do this!  You can create the page yourself.  just add [fe-fiction] where you want the fiction listing or story to display :)','fe-fiction'); ?></em>
+			<em><?php echo __('<strong>Note:</strong> you don\'t need to have us do this!  You can create the page yourself.  just add [wp-fanfiction-writing-archive] where you want the fiction listing or story to display :)','fe-fiction'); ?></em>
 		</td>
 	</tr>
 	<tr>
