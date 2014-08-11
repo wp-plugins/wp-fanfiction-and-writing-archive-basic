@@ -4,7 +4,7 @@ echo $_GET['story_category'];
 fanfic_process_fiction_views_content();
 $chapters_avail_struct = FeFiction_Get_Related_Stories(FeFiction_the_ID(false));
 ?>
-<div class="single_fiction" style="float:<?php echo get_option(FIC_OPTION_FICTION_POSITION); ?>">
+<div class="single_fiction" style="float:<?php echo get_option(FIC_OPTION_FICTION_POSITION); ?>;">
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 <div id="content">
 	<div class="post">

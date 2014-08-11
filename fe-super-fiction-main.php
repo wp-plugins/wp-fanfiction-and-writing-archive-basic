@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: WP Fanfiction and Writing Archive Basic
-Version: 1.1.1
+Version: 1.1.2
 Plugin URI: http://writing-archive.com/downloads/wp-fanfiction-writing-archive-basic/
 Description: Additional functionality over WP Fanfiction and Writing Archive Basic for larger communities of writers. Easily configure integrated Twitter API for auto-tweet of new submissions. Easily input advertising code to embed ads. Private messaging between members. Turn on/off age verification. Configured for optimum SEO.
 Author: Fandom Entertainment LLC
