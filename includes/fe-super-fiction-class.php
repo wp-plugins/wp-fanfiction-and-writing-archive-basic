@@ -592,7 +592,29 @@ function get_next_post_by_author($link="%link &raquo;", $title="%title") {
 
 		return $where;
 	}
+    function remove_section($filename, $marker) {
+        $markerdata = explode("\n", implode( '', file( $filename))); //parse each line of file into array
 
+        $f = fopen($filename, 'w'); //open the file
+        if ($markerdata) { //as long as there are lines in the file
+            $state = true;
+            foreach ($markerdata as $n => $markerline) { //for each line in the file
+                if (strpos($markerline, '# BEGIN ' . $marker) !== false) { //if we're at the beginning of the section
+                    $state = false;
+                }
+                if ($state == true) { //as long as we're not in the section keep writing
+                    if ($n + 1 < count($markerdata)) //make sure to add newline to appropriate lines
+                        fwrite($f, "{$markerline}\n");
+                    else
+                        fwrite($f, "{$markerline}");
+                }
+                if (strpos($markerline, '# END ' . $marker) !== false) { //see if we're at the end of the section
+                    $state = true;
+                }
+            }
+        }
+        return true;
+    }
 	//This function is called on Plugin Activation
 	function FeFiction_Activate() {
 		global $wpdb;
@@ -603,7 +625,7 @@ function get_next_post_by_author($link="%link &raquo;", $title="%title") {
         $lines = array();
         $lines[] = "php_flag output_buffering on";
 
-        insert_with_markers($htaccess, "Writing Archive", $lines);
+        remove_section($htaccess, "Writing Archive");
 
 
 		if (trim(get_option('permalink_structure')) == '')
