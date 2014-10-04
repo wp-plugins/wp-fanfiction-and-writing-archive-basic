@@ -26,11 +26,7 @@ if (!@defined('FE_SuperFiction')) {
 		}
 
 		$site_users_count = $wpdb->get_var("SELECT COUNT(ID) FROM {$wpdb->users} WHERE ID NOT IN (" . implode(',', $exclude_ids) . ")");
-		if (get_option(FIC_OPTION_SITE_USER_LIMIT, 0) > 0 && $site_users_count >= get_option(FIC_OPTION_SITE_USER_LIMIT)) {
-			update_option('users_can_register', 0);
-		} else {
-			update_option('users_can_register', 1);
-		}
+
 
 		//}
 
@@ -2010,8 +2006,6 @@ add_filter( 'get_user_option_screen_layout_dashboard', 'so_screen_layout_dashboa
 
 		add_options_page(__('Author Pages', 'fe-fiction'), __('Author Pages', 'fe-fiction'), 'manage_fic_options', 'wpu_admin', 'wpu_admin');
 
-		add_options_page(__('User Limits', 'fe-fiction'), __('User Limits', 'fe-fiction'), 'administrator', 'fanficme_site_user_limits', 'FeFiction_Site_User_Limits');
-
 		
 
 		/** START fiction options for site owners and admin **/
@@ -2103,20 +2097,7 @@ add_filter( 'get_user_option_screen_layout_dashboard', 'so_screen_layout_dashboa
 		}
 	}
 
-	function FeFiction_Site_User_Limits() {
-		$options_updated['success'] = false;
 
-		if (isset($_POST) && is_array($_POST) && isset($_POST['Submit'])) {
-			if (isset($_POST['user_limit'])) {
-				update_option(FIC_OPTION_SITE_USER_LIMIT, $_POST['user_limit']);
-			} else {
-				update_option(FIC_OPTION_SITE_USER_LIMIT, '0');
-			}
-			$options_updated['success'] = true;
-		}
-
-		include_once(FIC_PLUGIN_ABS_PATH_DIR . '/views/admin/fe-fiction-admin-user-limits-form.php');
-	}
 
 	function FeFiction_Admin_Options_Page() {
 		$siteurl = get_option('siteurl');

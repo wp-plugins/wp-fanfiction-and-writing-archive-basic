@@ -18,7 +18,6 @@
 @define('FIC_OPTION_ON_FRONT_PAGE','fic_option_on_front_page');
 @define('FIC_OPTION_FICTION_PAGE_STYLESHEET','fic_option_fiction_page_stylesheet');
 @define('FIC_OPTION_FICTION_STORY_SCORING','fic_option_fiction_story_scoring');
-@define('FIC_OPTION_SITE_USER_LIMIT','fic_option_site_user_limit');
 @define('FANDOMS_OPTION_SEARCH_MAX_NUM_FANDOMS_FOR_DROPDOWN','fic_option_smnffd');
 @define('FANDOMS_OPTION_SEARCH_FANDOMS_LIST_SHOW_COUNT','fic_option_sflsc');
 @define('FANDOMS_OPTION_SEARCH_FANDOMS_LIST_HIDE_EMPTY','fic_option_sflhe');
