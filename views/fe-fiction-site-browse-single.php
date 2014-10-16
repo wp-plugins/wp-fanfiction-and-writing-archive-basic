@@ -143,6 +143,8 @@ $chapters_avail_struct = FeFiction_Get_Related_Stories(FeFiction_the_ID(false));
                     <?php
                     content_favorite_manager('author',$post->post_author);
                     ?>
+
+                    
                     <br />
                 <?php
                 }
