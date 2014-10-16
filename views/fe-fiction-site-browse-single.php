@@ -62,7 +62,7 @@ $chapters_avail_struct = FeFiction_Get_Related_Stories(FeFiction_the_ID(false));
 			?></a></h2>
 
         <div class="post-info-top fe-fiction">
-            <span class="post-info-date fe-fiction"><?php printf(__('Story written on %1$s by %2$s.','fe-fiction'), '<strong>'.get_the_date().'</strong>', '<strong><a href="/author-profile/?user='.get_the_author_meta('ID').'">'.get_the_author().'</a></strong>'); ?></span>
+            <span class="post-info-date fe-fiction"><?php printf(__('Story written on %1$s by %2$s.','fe-fiction'), '<strong>'.get_the_date().'</strong>', '<strong><a href="'.site_url().'/author-profile/?user='.get_the_author_meta('ID').'">'.get_the_author().'</a></strong>'); ?></span>
         </div>
 
         <div>
@@ -263,7 +263,7 @@ $chapters_avail_struct = FeFiction_Get_Related_Stories(FeFiction_the_ID(false));
                 ?></a></h2>
 
                 <div class="post-info-top fe-fiction">
-                    <span class="post-info-date fe-fiction"><?php printf(__('Story written on %1$s by %2$s.','fe-fiction'), '<strong>'.get_the_date().'</strong>', '<strong><a href="/author-profile/?user='.get_the_author_meta('ID').'">'.get_the_author().'</a></strong>'); ?></span>
+                    <span class="post-info-date fe-fiction"><?php printf(__('Story written on %1$s by %2$s.','fe-fiction'), '<strong>'.get_the_date().'</strong>', '<strong><a href="'.site_url().'/author-profile/?user='.get_the_author_meta('ID').'">'.get_the_author().'</a></strong>'); ?></span>
                 </div>
 
                 <div>
