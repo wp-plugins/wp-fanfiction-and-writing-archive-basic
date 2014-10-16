@@ -133,8 +133,25 @@ $chapters_avail_struct = FeFiction_Get_Related_Stories(FeFiction_the_ID(false));
         </div>
         <!-- Weptile for advertisement-->
         <div class="fe-view-single-weptile">
+            <div class="entry-meta scores fe-fiction">
+                <?php
+                if(function_exists('content_favorite_manager'))
+                {
+                    content_favorite_manager('story',FeFiction_the_ID(false));
+                    ?>
+                    <br />
+                    <?php
+                    content_favorite_manager('author',$post->post_author);
+                    ?>
+                    <br />
+                <?php
+                }
+                ?>
+            </div>
             <?php if(function_exists('the_ratings') && FeFiction_Fiction_Scoring_Enabled(FeFiction_the_ID(false),$post->post_author)) { ?>
-
+                <div class="entry-meta scores fe-fiction">
+                    <?php the_ratings(); ?>
+                </div>
             <?php } ?>
 
             <div class="entry-meta fe-fiction">
@@ -335,9 +352,26 @@ $chapters_avail_struct = FeFiction_Get_Related_Stories(FeFiction_the_ID(false));
                     <!-- Weptile for advertisement-->
                 <div class="fe-view-single-weptile">
 
+                    <div class="entry-meta scores fe-fiction">
+                        <?php
+                        if(function_exists('content_favorite_manager'))
+                        {
+                            content_favorite_manager('story',FeFiction_the_ID(false));
+                            ?>
+                            <br />
+                            <?php
+                            content_favorite_manager('author',$post->post_author);
+                            ?>
+                            <br />
+                        <?php
+                        }
+                        ?>
+                    </div>
 
                     <?php if(function_exists('the_ratings') && FeFiction_Fiction_Scoring_Enabled(FeFiction_the_ID(false),$post->post_author)) { ?>
-
+                        <div class="entry-meta scores fe-fiction">
+                            <?php the_ratings(); ?>
+                        </div>
                     <?php } ?>
 
                     <div class="entry-meta fe-fiction">
