@@ -1,6 +1,3 @@
-<?php if(isset($_POST['Submit'])){
-    ?><script>location.reload();</script><?php
-}?>
 <div class="wrap">
 	<div id="icon-ms-admin" class="icon32"><br></div>
 	<h2><?php echo __('Fanfic.me Options','fe-fiction'); ?></h2> 

@@ -5,7 +5,7 @@ if (function_exists("FeFiction_Pagination")) {
 	echo '<br />';
 }
 if ( have_posts() ) {
-	if($num_stories > 1 || isset($cur_query_string['paged']))
+	if($num_stories > 0 || isset($cur_query_string['paged']))
 	{
 	?>
 	<div class="ui-widget ui-widget-content ui-corner-all fe-browse-site">
