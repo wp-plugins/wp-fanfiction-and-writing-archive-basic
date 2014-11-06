@@ -3586,9 +3586,10 @@ function cfandomfilter($cletter){
 		}
 
 }
-
-
-
+function app_output_buffer() {
+    ob_start();
+} // soi_output_buffer
+add_action('init', 'app_output_buffer');
 
 add_shortcode('post_story', 'post_story_function');
 function post_story_function(){
