@@ -115,3 +115,4 @@ class FanficMeSidebarWidget extends WP_Widget
 	}
 
 } // class FanficMeSidebarWidget
+?>

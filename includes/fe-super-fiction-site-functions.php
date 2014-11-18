@@ -139,3 +139,4 @@ function FeFiction_Pagination($pages = '',$paged=1, $range = 2)
 		echo "</div>\n";
 	}
 }
+?>

@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: WP Fanfiction and Writing Archive Basic
-Version: 1.2.0
+Version: 1.2.1
 Plugin URI: http://writing-archive.com/downloads/wp-fanfiction-writing-archive-basic/
 Description: Additional functionality over WP Fanfiction and Writing Archive Basic for larger communities of writers. Easily configure integrated Twitter API for auto-tweet of new submissions. Easily input advertising code to embed ads. Private messaging between members. Turn on/off age verification. Configured for optimum SEO.
 Author: Fandom Entertainment LLC
@@ -85,13 +85,6 @@ add_action('widgets_init', create_function('', 'return register_widget("FanficMe
 
 include_once('includes/ffme-fan-fiction-search-widget.php');
 add_action('widgets_init', create_function('', 'return register_widget("FanficMeFanFictionSearchSidebarWidget");'));
-/*
-include_once('includes/ffme-fic-recent-comments-widget.php');
-add_action('widgets_init', create_function('', 'return register_widget("FanficMeFanFictionRecentCommentsSidebarWidget");'));
-*/
-
-//include_once('3rd-party/wp-postratings/wp-postratings.php');
-
 include_once('includes/fiction-views.php');
 
 add_action('init', 'fanfic_fiction_views_textdomain');
@@ -105,4 +98,4 @@ add_action('delete_post', 'fanfic_delete_fiction_views');
 add_filter('get_the_excerpt', 'fanfic_update_fiction_excerpt_views',5);
 //add_action('admin_init','add_fiction_views_contextual_help');
 fanfic_fiction_cache_support();
-
+?>

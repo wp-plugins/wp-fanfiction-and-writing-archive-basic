@@ -625,7 +625,7 @@ function get_next_post_by_author($link="%link &raquo;", $title="%title") {
 
 
 		if (trim(get_option('permalink_structure')) == '')
-			exit('<p class="fe-class-act-p">The Fanfic.me Fiction plugin currently only works if permalinks are configured and enabled (anything other than "Default". Please enable permalinks and try again.)</p>');
+			exit('<p class="fe-class-act-p">The WP Fanfiction and Writing plugin currently only works if permalinks are configured and enabled (anything other than "Default". Please enable permalinks and try again.)</p>');
 
 		$sql = "CREATE TABLE IF NOT EXISTS `" . $wpdb->prefix
 				. "fic_poststruct` (
@@ -4724,4 +4724,4 @@ function customize_my_wp_admin_bar( $wp_admin_bar ) {
 
 
 }
-
+?>

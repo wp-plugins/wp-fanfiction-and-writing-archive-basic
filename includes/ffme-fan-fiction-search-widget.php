@@ -130,3 +130,4 @@ class FanficMeFanFictionSearchSidebarWidget extends WP_Widget
 	}
 
 } // class FanficMeFanFictionSearchSidebarWidget
+?>
