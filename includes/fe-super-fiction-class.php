@@ -3874,7 +3874,7 @@ if(isset($_POST['book_name_input'])) {
         );
     remove_all_filters('publish_fiction');
     $post_id = wp_insert_post($new_post);
-	$postbooks = $_POST['book_name_input'];
+	$postbooks =  unescape_quote($_POST['book_name_input']);
 	wp_set_object_terms($post_id,$postbooks,'books');
 	$postpairing = $_POST['pairing_name_input'];
 	wp_set_object_terms($post_id,(array)$_POST['pairingname'],'pairings',true);
@@ -4005,7 +4005,7 @@ function bookss(){
 	$term_meta = get_option('taxonomy_' . $term->term_id);
 	if(get_current_user_id()==$term_meta['custom_term_meta']){
 	?>
-		<input type="radio" name="bookname" value="<?php echo $term->name; ?>" onclick="radiobookname('<?php echo $term->name; ?>')"><?php echo $term->name; ?><br>
+		<input type="radio" name="bookname" value="<?php echo $term->name; ?>" onclick="radiobookname('<?php echo escape_quote($term->name); ?>')"><?php echo $term->name; ?><br>
 	<?php } }?>
     </div>
 	<form id="insert_term" name="insert_term" method="post" action=""> 
@@ -4722,6 +4722,13 @@ function customize_my_wp_admin_bar( $wp_admin_bar ) {
         //$new_content_node->meta   // array()
 
 
+
+}
+function unescape_quote( $string ){
+    return str_replace("\'", "'", $string);
+}
+function escape_quote( $string ){
+    return str_replace("'", "\'", $string);
 
 }
 ?>
