@@ -15,7 +15,7 @@ WP Fanfiction and Writing Archive turns WordPress sites into online writing comm
 
 WP Fanfiction and Writing Archive (WP FFWA) allows you to have a multi-author fanfiction repository of stories. Crowd source fanfiction for just one fandom or hundreds of fandoms. 
 
-If you are building a social networking site for any movie, TV show, book, cartoon, comic, anime, manga, play, musical, WP Fanfiction and Writing Archive is the perfect addition for your site. Invite your site members to become active participants on your site by submitting fanfiction. WP Fanfiction and Writing Archive encourages both user-generated content and interaction between your site members. When using the premium “Favorites” plugin, site members can follow their favorite authors and receive updates when new stories are posted. 
+If you are building a social networking site for any movie, TV show, book, cartoon, comic, anime, manga, play, musical, WP Fanfiction and Writing Archive is the perfect addition for your site. Invite your site members to become active participants on your site by submitting fanfiction. WP Fanfiction and Writing Archive encourages both user-generated content and interaction between your site members. When using the premium "Favorites" plugin, site members can follow their favorite authors and receive updates when new stories are posted. 
 
 A must have for any fan site, WP Fanfiction and Writing Archive will help you engage your site members by inviting a multi author community of fanfiction writers. Unlike a blog, where stories are stored in chronological order, your fanfic writing archive will make search easy for your site members. Each writer will have their own library of stories. 
 
@@ -32,62 +32,63 @@ Plugin Features
 
 Writers
 
-•	Easy to use dashboard
-•	Post single stories or books with chapters
-•	Get amazing stats on your dashboard
-•	Choose to let readers leave comments – or not
-•	Cover images* - feature an image of your choice on the front page of the site
-•	Create a profile and avatar for your Author Profile page*
-•	Get Private Messages from adoring fans*
+-	Easy to use dashboard
+-	Post single stories or books with chapters
+-	Get amazing stats on your dashboard
+-	Choose to let readers leave comments – or not
+-	Cover images* - feature an image of your choice on the front page of the site
+-	Create a profile and avatar for your Author Profile page*
+-	Get Private Messages from adoring fans*
 
 
 Readers
 
-•	Easily search
-•	Easy to use dashboard
-•	Private Message your favorite writers
-•	Rate and comment on stories if the author allows*
-•	Use your own avatar
-•	Follow your favorite stories and writers*
-•	Opt in/out of email notifications when favorites are posted*
+-	Easily search
+-	Easy to use dashboard
+-	Private Message your favorite writers
+-	Rate and comment on stories if the author allows*
+-	Use your own avatar
+-	Follow your favorite stories and writers*
+-	Opt in/out of email notifications when favorites are posted*
 
 
 Site Admins
  
 
-•	Simple Fanfic shortcode setup
-•	Automatic Story Shortlink using your URL
-•	Monitor comments, postings, and stats all from your dashboard
-•	Recent Comments widget
-•	Ratings Widget*
-•	Fandoms/Story Cloud Widget
-•	Popular fandoms
-•	Easy set up fandom or categories
-•	Enable/Disable scoring
-•	Choose scoring symbol (star, heart, thumb up, and more)*
-•	Age verification option*
-•	Simply activate 2 ad codes to display within the Archive *
-•	Easily configure auto Tweet for new stories posted *
-•	Easily change labels of all fields*
-•	Search Engine Optimized* 
-•	Serve Featured Images from fanfiction on the front page of your site*
+-	Simple Fanfic shortcode setup
+-	Automatic Story Shortlink using your URL
+-	Monitor comments, postings, and stats all from your dashboard
+-	Recent Comments widget
+-	Ratings Widget*
+-	Fandoms/Story Cloud Widget
+-	Popular fandoms
+-	Easy set up fandom or categories
+-	Enable/Disable scoring
+-	Choose scoring symbol (star, heart, thumb up, and more)*
+-	Age verification option*
+-	Simply activate 2 ad codes to display within the Archive *
+-	Easily configure auto Tweet for new stories posted *
+-	Easily change labels of all fields*
+-	Search Engine Optimized* 
+-	Serve Featured Images from fanfiction on the front page of your site*
 For every fandom or category created, WP FFWA Premium automatically creates a shortcode and a page for your fandom or category, allowing search engines to find your page and category.
 Example: http://lesfan.com/fan-fiction/fandom/the-l-word/
-“fan-fiction” is the name of the archive;  “fandom” is the name of the category; “the-l-word” is an item in the category – this page displays all stories uploaded to this item in the category
+"fan-fiction" is the name of the archive;  "fandom" is the name of the category; "the-l-word" is an item in the category – this page displays all stories uploaded to this item in the category
 
  
 
 Premium Plugins:
-•	Author Profile 
-•	Cover Image
-•	Favorites
-•	WP Fanfiction and Writing Archive Premium
+-	Author Profile 
+-	Cover Image
+-	Favorites
+-	WP Fanfiction and Writing Archive Premium
  
 
 We have intentionally kept the plugins separated. Small and smaller fanfiction sites do not need the WP FFWA Premium, but you may want to add one or more of the other plugins, which are priced very reasonably. 
 
  
 WP Fanfiction and Writing Archive plugins are updated frequently and improved upon frequently. 
+ 
 
 
 == Installation ==
