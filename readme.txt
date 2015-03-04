@@ -35,7 +35,7 @@ Writers
 -	Easy to use dashboard
 -	Post single stories or books with chapters
 -	Get amazing stats on your dashboard
--	Choose to let readers leave comments – or not
+-	Choose to let readers leave comments or not
 -	Cover images* - feature an image of your choice on the front page of the site
 -	Create a profile and avatar for your Author Profile page*
 -	Get Private Messages from adoring fans*
@@ -71,9 +71,10 @@ Site Admins
 -	Easily change labels of all fields*
 -	Search Engine Optimized* 
 -	Serve Featured Images from fanfiction on the front page of your site*
+
 For every fandom or category created, WP FFWA Premium automatically creates a shortcode and a page for your fandom or category, allowing search engines to find your page and category.
 Example: http://lesfan.com/fan-fiction/fandom/the-l-word/
-"fan-fiction" is the name of the archive;  "fandom" is the name of the category; "the-l-word" is an item in the category – this page displays all stories uploaded to this item in the category
+"fan-fiction" is the name of the archive;  "fandom" is the name of the category; "the-l-word" is an item in the category this page displays all stories uploaded to this item in the category
 
  
 
