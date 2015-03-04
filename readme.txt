@@ -3,11 +3,14 @@ Contributors: FandomEnt, weptile, onurure, ufukerdogmus
 Tags: longread, fanfiction, writing, education
 Donate link: http://writing-archive.com/donate
 Requires at least: 3.0
-Tested up to: 4.1.1
-Stable tag: 1.2.4
+Tested up to: 4.0
+Stable tag: 1.2.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+WP Fanfiction and Writing Archive Basic turns Wordpress sites into online writing communities for fanfiction, longread, education, magazine, and more. 
+
+== Description ==
 WP Fanfiction and Writing Archive turns WordPress sites into online writing communities for fanfiction, longread, education, magazine, and more. Writers can create single stories or books with chapters to share with readers. Powerful search, and terrific tools for both writers and readers. Turn a blog into an online writing community.
 
 WP Fanfiction and Writing Archive (WP FFWA) allows you to have a multi-author fanfiction repository of stories. Crowd source fanfiction for just one fandom or hundreds of fandoms. 
@@ -86,9 +89,6 @@ We have intentionally kept the plugins separated. Small and smaller fanfiction s
  
 WP Fanfiction and Writing Archive plugins are updated frequently and improved upon frequently. 
 
-
-== Description ==
-WP Fanfiction and Writing Archive turns Wordpress sites into online writing communities for fanfiction, longread, education, magazine, and more. Writers can create single stories or books with chapters to share with readers. Powerful search, and terrific tools for both writers and readers. Turn a blog into an online writing community.
 
 == Installation ==
 Follow typical plugin installation: install and activate. 
