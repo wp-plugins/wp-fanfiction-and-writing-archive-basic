@@ -3,7 +3,7 @@ Contributors: FandomEnt, weptile, onurure, ufukerdogmus
 Tags: education, fanfiction, longread, writing. multi-user, multi author, user generated content, social networking, entertainment
 Donate link: http://writing-archive.com/donate
 Requires at least: 3.0
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 Stable tag: 1.2.6
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
