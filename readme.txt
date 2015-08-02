@@ -180,7 +180,7 @@ More FAQs comings soon.
 
 == Changelog ==
 Version 1.2.8
-Changelog: 
+Changelog:    
 Updated changelog for version 1.2.7 and updated installation and setup instructions.
 
 Version 1.2.7
