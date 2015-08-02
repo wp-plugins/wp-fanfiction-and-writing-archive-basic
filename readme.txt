@@ -3,8 +3,8 @@ Contributors: FandomEnt, weptile, onurure, ufukerdogmus
 Tags: education, fanfiction, longread, writing. multi-user, multi author, user generated content, social networking, entertainment
 Donate link: http://writing-archive.com/donate
 Requires at least: 3.0
-Tested up to: 4.2.2
-Stable tag: 1.2.7
+Tested up to: 4.2.3
+Stable tag: 1.2.8
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -93,58 +93,67 @@ WP Fanfiction and Writing Archive plugins are updated frequently and improved up
 
 
 == Installation ==
-Follow typical plugin installation: install and activate. 
+Follow typical plugin installation: install and activate.
 
-Optional settings will be under 1) Fanfiction OPTIONS and 2) Fanfiction (screenshot-1.png)
+The options are already pre-filled for you so. However, you will need to create some pages using shortcodes. 
 
-Dashboard > Fanfiction OPTIONS 
+Optional settings will be under 1) Fanfiction OPTIONS and 2) Fanfiction 
 
-Dashboard > Fanfiction Options 
-Create Fan Fiction Page: Name the page you would like your archive of stories to display on. Suggestion: Fanfiction (best for SEO).
+Dashboard > Fanfiction OPTIONS
+You do not have to change anything here, but here is the explanation of what is what:
 
-Override Dashboard: This is not required. You can choose your preference. 
-Enhanced Admin Interface: Leave Unchecked.
-Default Role: Leave UNchecked.
+Dashboard > Fanfiction Options Create Fan Fiction Page: Name the page you would like your archive of stories to display on. Suggestion: Fanfiction (best for SEO).
 
-Fan Fiction Page Stylesheet: Do not alter.
-Fiction Position: LEFT if your widgets column is on the right. RIGHT if your widget column is on the left.
-Posting Page: This is the slug of the page where writers will post their writings. Example: post-fanfiction Example 2: submit-story
-Click SAVE CHANGES.
+Override Dashboard: This is not required. You can choose your preference. Enhanced Admin Interface: Leave Unchecked. Default Role: Leave UNchecked.
 
+Fan Fiction Page Stylesheet: Do not alter. Fiction Position: LEFT if your widgets column is on the right. RIGHT if your widget column is on the left. Posting Page: This is the slug of the page where writers will post their writings. Example: post-fanfiction Example 2: submit-story Click SAVE CHANGES.
 
 Dashboard > Fanfiction (not options)
 
 Dashboard > Fanfiction > Fanfiction No settings. This displays stories submitted and their stats.
 
-Dashboard > Fanfiction > Add Fanfiction No settings. This displays the front end posting page. This page name and slug are set up through Dashboard > Fanfiction OPTIONS > Posting Page.
+Dashboard > Fanfiction > Add Fanfiction 
+No settings. This displays the front end posting page. This page name and slug are set up through Dashboard > Fanfiction OPTIONS > Posting Page.
 
-Dashboard > Fanfiction > Books Add or edit Book titles and slugs. Your writers will be adding Books from the front end. You can see the listing of books here.
+Dashboard > Fanfiction > Books 
+Add or edit Book titles and slugs. Your writers will be adding Books from the front end. You can see the listing of books here.
 
-Dashboard > Fanfiction > Genres Add or edit genres and slugs.
+Dashboard > Fanfiction > Genres 
+Add or edit genres and slugs.
 
-Dashboard > Fanfiction > Fandoms.  You MUST create your fandoms before stories can be posted.NOTE: A tag cloud is generated for this. There is a Widget available for this, as well. (screenshot-2.png)
+Dashboard > Fanfiction > Fandoms 
+You MUST create your fandoms before stories can be posted.
+NOTE: A tag cloud is generated for this. There is a Widget available for this, as well. 
 
 Dashboard > Fanfiction > Characters Add or edit characters and slugs.
 
+CREATE PAGES - YOU MUST DO THIS
 
-CREATE PAGES
-
+As of 1.2.8, this is now done for you:
 Archive/Library Page Pages > Add New: Create a new page and title it the same title you chose for Dashboard > Fanfiction OPTIONS > Fanfiction Options. Insert shortcode [wp-fanfiction-writing-archive].
 
 Post Pages > Add New: Create a new page and title it the same title you chose for Fanfiction Options > Posting Page. Insert shortcode [post_story].
 
 You'll want to add these pages to your main navigation using Appearance > Menus.
 
+Width of your archive Edit width of your library/archive display: If your library or archive is displaying too wide, go to Fanfic Options > Fanfic Options and edit CSS: edit CSS on the Fan Fiction Page Stylesheet option of Fanfic Option page. If your theme is responsive, code should be like that, @media only screen and (min-width: 1024px){ .single_fiction{ width:68%;} } @media only screen and (max-width: 1023px){ .single_fiction{ width:100%;} } If your theme is not responsive, code should be like that, .single_fiction{ width:68%;}
+
+Settings > Fiction Stats Displays awesome stats on the stories in your archive. No settings, just stats.
+
+There are optional add-on plugins:
+
+WP Fanfiction and Writing Archive Cover Image
+Add-on to WP Fanfiction and Writing Archive Basic or Premium. This plugin allows writers to embed a 360x200 cover image that will display at the top of their stories. 
 
 
-Width of your archive
-Edit width of your library/archive display: If your library or archive is displaying too wide, go to Fanfic Options > Fanfic Options and edit CSS: edit CSS on the Fan Fiction Page Stylesheet option of Fanfic Option page. If your theme is responsive, code should be like that, @media only screen and (min-width: 1024px){ .single_fiction{ width:68%;} } @media only screen and (max-width: 1023px){ .single_fiction{ width:100%;} } If your theme is not responsive, code should be like that, .single_fiction{ width:68%;}
+WP Fanfiction and Writing Archive Author Profiles
+This Premium Plugin works with WP Fanfiction and Writing Archive. Author names on stories are linked to a special Author Profile page: 
 
 
-Settings > Fiction Stats 
-Displays awesome stats on the stories in your archive. No settings, just stats.
+WP Fanfiction and Writing Archive Favorites Manager
+This Premium Plugin works with WP Fanfiction and Writing Archive. WP Fanfiction and Writing Archive Favorites Manager allows your registered site readers to easily select their favorite stories and authors.
 
-
+All add on plugins are at: http://writing-archive.com/purchase/
 
 == Frequently Asked Questions ==
 Q. Something isn't right.
@@ -170,7 +179,7 @@ More FAQs comings soon.
 2. Dashboard > Writings > Categories. Set up the categories that writers will be posting to.  Example: fiction, non-fiction, poetry. Example 2: Fandom 1, Fandom 2, Fandom 3, etc.
 
 == Changelog ==
-We cleaned up some settings and updated readme.
+Updated changelog for version 1.2.7 and updated installation and setup instructions.
 
 == Upgrade Notice ==
 We cleaned up some settings and updated readme.
