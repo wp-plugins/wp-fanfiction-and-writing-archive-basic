@@ -179,7 +179,14 @@ More FAQs comings soon.
 2. Dashboard > Writings > Categories. Set up the categories that writers will be posting to.  Example: fiction, non-fiction, poetry. Example 2: Fandom 1, Fandom 2, Fandom 3, etc.
 
 == Changelog ==
+Version 1.2.8
+Changelog: 
 Updated changelog for version 1.2.7 and updated installation and setup instructions.
+
+Version 1.2.7
+Changelog:  
+We pre-filled the setup choices so that the plugin doesn't need customization. NOTE: You do need to create pages using shortcodes. Please follow the set-up instructions. Also, we made the plugin rtMedia compatible.
+
 
 == Upgrade Notice ==
 We cleaned up some settings and updated readme.
