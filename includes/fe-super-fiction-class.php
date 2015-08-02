@@ -126,7 +126,7 @@ if (!@defined('FE_SuperFiction')) {
 		add_filter('comment_form_defaults', 'FeFiction_Comment_Form_Defaults');
 		 **/
 
-		add_filter('query_string', 'FeFiction_Handle_QueryString');
+		//add_filter('query_string', 'FeFiction_Handle_QueryString');
 
 		add_filter('post_row_actions', 'FeFiction_Override_Item_List_Links');
 
@@ -2347,10 +2347,17 @@ add_filter( 'get_user_option_screen_layout_dashboard', 'so_screen_layout_dashboa
         global $wp_query, $wp, $wpdb;
         //if(is_page(FeFiction_Get_Page_ID()))
         //{
-        parse_str($GLOBALS['FIC_CUR_QUERY_STRING'], $cur_query_string);
+        parse_str($GLOBALS['FIC_CUR_QUERY_STRING'], $cur_query_string1);
         $pagename = FeFiction_Get_Page_Slug_Name();
 
         $query_posts_str = 'post_type=' . stripslashes(CUSTOM_POST_TYPE);
+        $getvar = $_SERVER['REQUEST_URI'];
+        $getvarexp = explode('/?',$getvar);
+        parse_str($getvarexp[1], $cur_query_string);
+
+        $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
+        $cur_query_string['paged'] = $paged;
+        $query_posts_str .= '&paged=' . $paged;
 
 
 
@@ -2407,23 +2414,24 @@ add_filter( 'get_user_option_screen_layout_dashboard', 'so_screen_layout_dashboa
         if (array_key_exists('story_title', $cur_query_string)) {
             $query_posts_str .= '&name=' . stripslashes($cur_query_string['story_title']);
         }
-
+/*
         if (array_key_exists('paged', $cur_query_string)) {
             $query_posts_str .= '&paged=' . stripslashes($cur_query_string['paged']);
         }
-
-        if (array_key_exists('s', $cur_query_string)) {
-            $query_posts_str .= '&s=' . stripslashes($cur_query_string['s']);
+*/
+        if (array_key_exists('sc', $cur_query_string)) {
+            $query_posts_str .= '&s=' . stripslashes($cur_query_string['sc']);
         }
 
-        $total_story_count_sql = "SELECT COUNT({$wpdb->posts}.ID) as num_stories FROM {$wpdb->posts} WHERE 1=1 AND {$wpdb->posts}.post_type = 'fiction' AND ({$wpdb->posts}.post_status = 'publish'" . (current_user_can('manage_fic_options') ? " OR {$wpdb->posts}.post_status = 'private' " : "") . ");";
+        //$total_story_count_sql = "SELECT COUNT({$wpdb->posts}.ID) as num_stories FROM {$wpdb->posts} WHERE 1=1 AND {$wpdb->posts}.post_type = 'fiction' AND ({$wpdb->posts}.post_status = 'publish'" . (current_user_can('manage_fic_options') ? " OR {$wpdb->posts}.post_status = 'private' " : "") . ");";
 
-        $num_stories = $wpdb->get_var($wpdb->prepare($total_story_count_sql, ""));
+        //$num_stories = $wpdb->get_var($wpdb->prepare($total_story_count_sql, ""));
 
         $original_wp_query = $wp_query;
 
         $query_posts_str .= $cur_query_string['per_page'] != '' ? '&posts_per_page=' . $cur_query_string['per_page'] : '&posts_per_page=15';
-        $query_posts_str .= "&orderby=ID&order=DESC";
+        $query_posts_str .= "&orderby=ID&order=DESC&post_status=publish";
+
         $query_stories = new WP_Query($query_posts_str);
         //$query_stories = new WP_Query('author = 32870');
         $wp_query = $query_stories;
@@ -3333,6 +3341,12 @@ function post_story_script()
     {
     wp_enqueue_script( 'custom-script', plugins_url( '/js/custom-script.js', __FILE__ ));
 	}
+
+function admin_option_script() {
+    wp_enqueue_script( 'adminoption_custom_script', plugins_url( '/js/adminoption-custom-script.js', __FILE__ ));
+}
+
+add_action('admin_enqueue_scripts', 'admin_option_script');
 
 function fandomfilter($letter){ ?>
 

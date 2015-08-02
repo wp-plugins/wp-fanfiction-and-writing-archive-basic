@@ -34,6 +34,14 @@
                     in the WordPress Plugins directory.</div></td>
         </tr>
         <tr>
+            <th></th>
+            <td>
+                <label><?php echo __('What type of writing archive would you like to set up?','fe-fiction');?></label><br><br>
+                <input type="radio" name="prefilled" value="1" onclick="prefilljs(1)"> Fanfiction<br><br>
+                <em><?php echo __('Select one of these options, and the fields will be pre-filled for you. We suggest you keep the pre-filled selections, but you will find you can edit these fields, as well. The pre-filled fields makes for a very quick, effective setup! ','fe-fiction'); ?></em>
+            </td>
+        </tr>
+        <tr>
 		<th class="fe-admin-form-th">
 		<p><strong><?php echo __('Create Fan Fiction Page','fe-fiction'); ?></strong></p></th>
 		<td  class="fe-admin-form-td" >
